@@ -1,0 +1,60 @@
+body{
+    background-image: url("IMAGES/vote.webp");
+    /* background-position: center; */
+    background-size: cover;
+}
+
+.vote{
+    width: 330px;
+    background-color: #818386;
+    margin: auto;
+    padding-bottom: 2%;
+    border-radius: 15px;
+    min-height: 300px;
+    
+}
+
+.vote h1{
+    padding: 7% 5% 1% 13%;
+    font-family: 'Dancing Script';
+    font-size: 23px;
+
+}
+.vote input{
+    margin: 1% 0% 2% 6%;
+    width: 175px;
+    height: 25px;
+    border: 2px solid white;
+    border-radius: 4px ;
+    font-size: 15px;
+    padding: 2%;
+    font-family:'Courier New', Courier, monospace; 
+    /* Poppins */
+}
+.vote button{
+    width: 90px;
+    height: 37px;
+}
+.friendvotelists{
+    width: 300px; 
+}
+.friend_vote{
+    margin: 2% 5% 3% 7%;
+    background-color: #C6C7C8;
+    width: 260px;
+    height: 30px;
+    padding: 3% 4% 2% 4%;
+    border-radius: 5px;
+}
+.UnderDiv{
+    display: flex;   
+}
+
+
+/* .Div1{
+    margin: 2%;
+}
+.Div1{
+    margin: 2% 5% 2% 5%;
+} */
+
